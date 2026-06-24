@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI影像课程字幕"
+  short_description: "AI影像实战课程成片字幕烧录校对与复用检查流程指南"
+  default_prompt: "Use $ai-video-course-subtitles to add corrected burned-in subtitles to an AI影像实战课程 video."
